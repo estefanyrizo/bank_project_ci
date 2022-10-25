@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="C:\xampp\htdocs\bank_project_ci\bank_project_ci.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/bank_project_ci]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/bank_project_ci]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+  <PM_LANGUAGE><![CDATA[php7]]></PM_LANGUAGE>
+ </settings>
+ <removed value=";"/>
+ <added value="C:\xampp\htdocs\bank_project_ci\.htaccess_temp;"/>
+ <lastopfiles>
+  <file name="C:\xampp\htdocs\bank_project_ci\app\Config\Database.php"/>
+  <file name="C:\xampp\htdocs\bank_project_ci\app\Controllers\Admincuenta\Usuario.php"/>
+  <file name="C:\xampp\htdocs\bank_project_ci\app\Config\Routes.php"/>
+  <file name="C:\xampp\htdocs\bank_project_ci\app\Views\userview\nuevo_login.php"/>
+  <file name="C:\xampp\htdocs\bank_project_ci\app\Views\login\cuenta_login.php"/>
+  <file name="C:\xampp\htdocs\bank_project_ci\app\Controllers\Admincuenta\CuentaLogin.php"/>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <todoblock>
+  <todofile name="C:\xampp\htdocs\bank_project_ci\app\Controllers\Acceso.php">
+   <todo pos="10;20" name="todo principal index"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\bank_project_ci\app\Controllers\Admincuenta\CuentaLogin.php">
+   <todo pos="13;31" name="todo nuevoLogin"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\bank_project_ci\app\Controllers\Admincuenta\Usuario.php">
+   <todo pos="13;15" name="todo"/>
+   <todo pos="9;43" name="todo agregar"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\bank_project_ci\app\Controllers\Principal_site.php">
+   <todo pos="9;15" name="todo index"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\bank_project_ci\vendor\codeigniter4\framework\system\Cache\Handlers\FileHandler.php">
+   <todo pos="28;208" name="TODO This will return null in a future release"/>
+   <todo pos="27;208" name="@TODO This will return null in a future release"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\bank_project_ci\vendor\codeigniter4\framework\system\Cache\Handlers\MemcachedHandler.php">
+   <todo pos="28;247" name="TODO This will return null in a future release"/>
+   <todo pos="27;247" name="@TODO This will return null in a future release"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\bank_project_ci\vendor\codeigniter4\framework\system\Cache\Handlers\WincacheHandler.php">
+   <todo pos="24;133" name="TODO This will return null in a future release"/>
+   <todo pos="23;133" name="@TODO This will return null in a future release"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\bank_project_ci\vendor\codeigniter4\framework\system\Config\Services.php">
+   <todo pos="10;495" name="TODO remove the following code for backward compatibility"/>
+   <todo pos="9;495" name="@TODO remove the following code for backward compatibility"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\bank_project_ci\vendor\codeigniter4\framework\system\Database\BaseBuilder.php">
+   <todo pos="46;292" name="TODO remove alias if exists"/>
+   <todo pos="45;292" name="@TODO remove alias if exists"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\bank_project_ci\vendor\codeigniter4\framework\system\Database\BaseConnection.php">
+   <todo pos="10;481" name="todo work with read/write connections"/>
+   <todo pos="9;481" name="@todo work with read/write connections"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\bank_project_ci\vendor\codeigniter4\framework\system\Database\OCI8\Forge.php">
+   <todo pos="10;175" name="todo: can’t cover multi pattern when set type."/>
+   <todo pos="9;175" name="@todo: can’t cover multi pattern when set type."/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\bank_project_ci\vendor\codeigniter4\framework\system\HTTP\DownloadResponse.php">
+   <todo pos="10;164" name="todo: depend super global"/>
+   <todo pos="9;164" name="@todo: depend super global"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\bank_project_ci\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php">
+   <todo pos="10;96" name="TODO Remove this in the future."/>
+   <todo pos="9;96" name="@TODO Remove this in the future."/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\bank_project_ci\vendor\codeigniter4\framework\system\HTTP\Response.php">
+   <todo pos="14;175" name="todo Remove this fallback when deprecated `App` members are removed"/>
+   <todo pos="13;175" name="@todo Remove this fallback when deprecated `App` members are removed"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\bank_project_ci\vendor\codeigniter4\framework\system\Helpers\cookie_helper.php">
+   <todo pos="14;73" name="TODO Remove Config\App fallback when deprecated `App` members are removed."/>
+   <todo pos="13;73" name="@TODO Remove Config\App fallback when deprecated `App` members are removed."/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\bank_project_ci\vendor\codeigniter4\framework\system\Log\Handlers\ChromeLoggerHandler.php">
+   <todo pos="10;140" name="todo Modify formatting of objects once we can view them in browser."/>
+   <todo pos="9;140" name="@todo Modify formatting of objects once we can view them in browser."/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\bank_project_ci\vendor\codeigniter4\framework\system\Log\Logger.php">
+   <todo pos="13;334" name="todo - sanitize input before writing to file"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\bank_project_ci\vendor\codeigniter4\framework\system\Pager\Pager.php">
+   <todo pos="10;250" name="todo determine based on a 'surroundCount' value"/>
+   <todo pos="9;250" name="@todo determine based on a 'surroundCount' value"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\bank_project_ci\vendor\codeigniter4\framework\system\Router\RouteCollection.php">
+   <todo pos="14;1185" name="todo determine if there's a way to whitelist hosts"/>
+   <todo pos="13;1185" name="@todo determine if there's a way to whitelist hosts"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\bank_project_ci\vendor\codeigniter4\framework\system\Session\Handlers\BaseHandler.php">
+   <todo pos="14;117" name="TODO Remove this fallback when deprecated `App` members are removed."/>
+   <todo pos="13;117" name="@TODO Remove this fallback when deprecated `App` members are removed."/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\bank_project_ci\vendor\codeigniter4\framework\system\Test\Mock\MockConnection.php">
+   <todo pos="14;73" name="todo deal with errors"/>
+   <todo pos="13;73" name="@todo deal with errors"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\bank_project_ci\vendor\codeigniter4\framework\system\ThirdParty\Kint\Parser\ClassStaticsPlugin.php">
+   <todo pos="9;54" name="TODO: PHP 7.1 allows private consts but reflection doesn't have a way to check them yet"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\bank_project_ci\vendor\fakerphp\faker\src\Faker\ORM\CakePHP\EntityPopulator.php">
+   <todo pos="9;121" name="TODO check if TreeBehavior attached to modify lft/rgt cols"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\bank_project_ci\vendor\fakerphp\faker\src\Faker\Provider\Base.php">
+   <todo pos="9;594" name="TODO: remove in v2"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\bank_project_ci\vendor\fakerphp\faker\src\Faker\Provider\kk_KZ\Address.php">
+   <todo pos="5;15" name="TODO list all country names in the world"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\bank_project_ci\vendor\kint-php\kint\src\Parser\ClassStaticsPlugin.php">
+   <todo pos="9;54" name="TODO: PHP 7.1 allows private consts but reflection doesn't have a way to check them yet"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\bank_project_ci\vendor\nikic\php-parser\lib\PhpParser\Comment.php">
+   <todo pos="13;229" name="TODO: Rename these to include &quot;start&quot;."/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\bank_project_ci\vendor\nikic\php-parser\lib\PhpParser\Internal\TokenStream.php">
+   <todo pos="21;239" name="TODO Handle non-space indentation"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\bank_project_ci\vendor\nikic\php-parser\lib\PhpParser\Lexer\TokenEmulator\AttributeEmulator.php">
+   <todo pos="9;41" name="TODO"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\bank_project_ci\vendor\nikic\php-parser\lib\PhpParser\PrettyPrinterAbstract.php">
+   <todo pos="13;496" name="TODO Add &lt;"/>
+   <todo pos="17;727" name="TODO: Try to preserve formatting"/>
+   <todo pos="25;778" name="TODO: Preserve formatting."/>
+   <todo pos="25;881" name="TODO: Preserve formatting."/>
+   <todo pos="13;904" name="TODO: Support removing single node."/>
+   <todo pos="52;1171" name="TODO: FIXUP_NEW_VARIABLE"/>
+   <todo pos="69;1182" name="TODO: FIXUP_NEW_VARIABLE"/>
+   <todo pos="9;1304" name="TODO: &quot;yield&quot; where both key and value are inserted doesn't work"/>
+   <todo pos="86;1332" name="TODO"/>
+   <todo pos="47;1348" name="TODO These need to be treated more carefully"/>
+   <todo pos="9;1440" name="TODO Insertion into empty statement lists."/>
+   <todo pos="14;1488" name="TODO"/>
+   <todo pos="67;1509" name="TODO"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\bank_project_ci\vendor\nikic\php-parser\lib\PhpParser\PrettyPrinter\Standard.php">
+   <todo pos="9;1078" name="TODO: This is not fully accurate."/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\bank_project_ci\vendor\phpunit\php-code-coverage\src\StaticAnalysis\CodeUnitFindingVisitor.php">
+   <todo pos="15;154" name="todo Handle default values"/>
+   <todo pos="14;154" name="@todo Handle default values"/>
+  </todofile>
+ </todoblock>
+ <dbgurls>
+  <url name="http://localhost/bank_project_ci/"/>
+ </dbgurls>
+ <lasttime value="1666299187"/>
+</project>
